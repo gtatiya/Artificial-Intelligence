@@ -8,5 +8,6 @@ Least Constraining Value (LCV): Choosing value that rules out the fewest choices
 
 Command to run the code:
 `./xwd [grid file] [grid width]`
+
 Example:
 `./xwd grid5 5`

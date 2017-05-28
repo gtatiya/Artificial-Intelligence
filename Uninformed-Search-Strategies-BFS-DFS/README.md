@@ -9,6 +9,7 @@ Depth-first search
 Depth-first search always expands the deepest node in the current frontier of the search tree.
 
 Command to run the code:
-./search [graph file] "[search query]" [index of root node]
+`./search [graph file] "[search query]" [index of root node]`
+
 Example:
-./search t-graph "South Station" 9
+`./search t-graph "South Station" 9`
