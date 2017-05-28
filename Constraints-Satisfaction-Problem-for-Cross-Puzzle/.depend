@@ -1,0 +1,4 @@
+Word.o: Word.cpp Word.h
+xwd.o: xwd.cpp Grid.h Word.h Lexicon.h
+Grid.o: Grid.cpp Grid.h Word.h
+Lexicon.o: Lexicon.cpp Lexicon.h
